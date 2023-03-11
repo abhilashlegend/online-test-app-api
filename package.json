@@ -1,0 +1,16 @@
+{
+  "name": "online-test-app-api",
+  "version": "1.0.0",
+  "description": "This project works as a fake api provider for the online test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "online-test-app-api"
+  },
+  "author": "abhilash",
+  "license": "ISC"
+}
