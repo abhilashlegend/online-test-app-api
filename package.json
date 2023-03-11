@@ -12,5 +12,8 @@
     "url": "online-test-app-api"
   },
   "author": "abhilash",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
 }
